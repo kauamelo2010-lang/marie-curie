@@ -1,0 +1,6 @@
+{
+  "name": "Marie Curie — A Pioneira da Radioatividade",
+  "description": "Experiência digital interativa e educativa sobre a vida, descobertas, pesquisas laboratoriais e os dois Prêmios Nobel de Marie Curie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
